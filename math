@@ -16,5 +16,7 @@ c=a*a;
 System.out.println(c);
 c=power(a,b);
 System.out.println(c);
+c=sqrt(c);
+System.out.println(c);
 }
 }
